@@ -7,7 +7,8 @@ public class Trialscript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Hello git");
+         
     }
 
     // Update is called once per frame
