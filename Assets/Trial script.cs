@@ -9,6 +9,8 @@ public class Trialscript : MonoBehaviour
     {
         Debug.Log("Hello git");
 
+        Debug.Log("Movement");
+
         Debug.Log("Jump");
 
     }
