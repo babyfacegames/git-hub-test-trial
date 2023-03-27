@@ -6,7 +6,7 @@ Welcome to SWE 585 - Fall 2022 repository.
 
 The Authors of this repository:
 
-Cem Kurtoglu
+atilla
 How to deploy?
 Clone this repo locally
 Demo of the Game
