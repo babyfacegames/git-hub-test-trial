@@ -8,7 +8,9 @@ public class Trialscript : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello git");
-         
+
+        Debug.Log("Jump");
+
     }
 
     // Update is called once per frame
